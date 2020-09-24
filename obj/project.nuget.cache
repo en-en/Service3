@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QfJrctZ4JiLrgJNb5vcbu5ZfvWjSScrZkzDLlCrOmPiljvl6x9pKbaJGdchkqHu1bmkcIhRjqko8M14MHFFtKQ==",
+  "success": true,
+  "projectFilePath": "C:\\微服务\\Service3\\Server3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shinelon\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
